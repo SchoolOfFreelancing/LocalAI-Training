@@ -3,7 +3,7 @@
 [![License: MIT](https://shields.io)](LICENSE)
 [![Format: 100% Live](https://shields.io)](https://schooloffreelancing.com/freelancing-training/local-ai-training)
 [![Duration: 4 Weeks](https://shields.io)](https://schooloffreelancing.com/freelancing-training/local-ai-training)
-[![Mentor: Telegram](https://shields.io)](https://t.me)
+[![Mentor: Telegram](https://shields.io)](https://t.me/SchoolOfFreelancingTraining)
 
 A live, mentor-led 4-week course by [School Of Freelancing](https://schooloffreelancing.com/) focused on deploying self-hosted AI servers on Linux and offering freelance infrastructure services worldwide.
 
