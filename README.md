@@ -1,6 +1,22 @@
 # LocalAI Freelancing Training
 
+[![License: MIT](https://shields.io)](LICENSE)
+[![Format: 100% Live](https://shields.io)](https://schooloffreelancing.com/freelancing-training/local-ai-training)
+[![Duration: 4 Weeks](https://shields.io)](https://schooloffreelancing.com/freelancing-training/local-ai-training)
+[![Mentor: Telegram](https://shields.io)](https://t.me)
+
 A live, mentor-led 4-week course by [School Of Freelancing](https://schooloffreelancing.com/) focused on deploying self-hosted AI servers on Linux and offering freelance infrastructure services worldwide.
+
+## Repository Structure
+
+```text
+LocalAI-Training/
+├── configs/      # Sample LocalAI model YAML files, .env setups, and reverse proxy configs
+├── labs/         # Step-by-step hands-on exercises for Weeks 1–4 (API calls, GGUF, STT/TTS, SSL)
+├── templates/    # Freelance gig descriptions, client proposal templates, and LinkedIn outreach copy
+├── LICENSE       # MIT License
+└── README.md     # Program overview, syllabus, and enrollment details
+```
 
 ## Program Snapshot
 - **Fee:** $111 USD (one-time payment)
