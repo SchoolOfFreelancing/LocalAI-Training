@@ -1,0 +1,17 @@
+name: gpt-4o-mini
+backend: llama-cpp
+parameters:
+  model: qwen2.5-3b-instruct-q4_k_m.gguf
+  temperature: 0.7
+  top_k: 40
+  top_p: 0.9
+context_size: 4096
+threads: 4
+template:
+  chat: |
+    <|im_start|>system
+    {{.SystemPrompt}}<|im_end|>
+    <|im_start|>user
+    {{.Input}}<|im_end|>
+    <|im_start|>assistant
+
