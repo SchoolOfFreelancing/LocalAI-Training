@@ -90,9 +90,9 @@ By completing the training, learners work toward developing the ability to:
 - **School Of Freelancing:** https://schooloffreelancing.com/
 - **Mentor Support:** [Telegram Training Channel](https://t.me/SchoolOfFreelancingTraining)
 
-## Training Disclaimer
+## Note: 
 
-This program develops practical technical, deployment, and freelance service-positioning skills. Completion does not guarantee freelance projects, client acquisition, employment, or income.
+This training prepares you to offer LocalAI services as a freelancer. See Training Rules.
 
 ## License
 
