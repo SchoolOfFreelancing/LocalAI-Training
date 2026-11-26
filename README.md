@@ -22,6 +22,14 @@
 
 A live, mentor-led four-week training program by [School Of Freelancing](https://schooloffreelancing.com/) focused on deploying self-hosted AI infrastructure on Linux and developing practical skills for offering AI infrastructure services to clients worldwide.
 
+LocalAI-Training/
+├── assets/       # Training banners & visual docs
+├── configs/      # Docker, model YAML & SSL proxy configs
+├── labs/         # Weekly hands-on guides (Weeks 1–4)
+├── templates/    # Gigs, proposals & outreach copy
+├── LICENSE       # MIT License
+└── README.md     # Program guide & 20-session syllabus
+
 ## Program Snapshot
 
 - **Fee:** $111 USD (one-time payment)
