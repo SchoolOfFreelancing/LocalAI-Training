@@ -3,12 +3,6 @@
 ## Learn LocalAI. Build AI Infrastructure. Freelance Globally.
 
 <p align="center">
-  <img src="assets/localai-training-banner.png"
-       alt="School Of Freelancing - LocalAI Freelancing Training"
-       width="100%">
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT License">
   <img src="https://img.shields.io/badge/Training-100%25%20Live-brightgreen.svg" alt="100% Live">
   <img src="https://img.shields.io/badge/Duration-4%20Weeks-blue.svg" alt="4 Weeks">
@@ -98,6 +92,12 @@ By completing the training, learners work toward developing the ability to:
 - **Full Syllabus & Registration:** [LocalAI Freelancing Training](https://schooloffreelancing.com/freelancing-training/local-ai-training)
 - **School Of Freelancing:** https://schooloffreelancing.com/
 - **Mentor Support:** [Telegram Training Channel](https://t.me/SchoolOfFreelancingTraining)
+
+<p align="center">
+  <img src="assets/localai-training-banner.png"
+       alt="School Of Freelancing - LocalAI Freelancing Training"
+       width="100%">
+</p> 
 
 ## Note: 
 
