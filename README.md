@@ -92,7 +92,7 @@ By completing the training, learners work toward developing the ability to:
 
 ## Note: 
 
-This training prepares you to offer LocalAI services as a freelancer. See Training Rules.
+This training prepares you to offer LocalAI services as a freelancer. See [Training Rules](https://schooloffreelancing.com/legal/training-rules).
 
 ## License
 
