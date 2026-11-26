@@ -3,10 +3,21 @@
 ## Learn LocalAI. Build AI Infrastructure. Freelance Globally.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT License">
-  <img src="https://img.shields.io/badge/Training-100%25%20Live-brightgreen.svg" alt="100% Live">
-  <img src="https://img.shields.io/badge/Duration-4%20Weeks-blue.svg" alt="4 Weeks">
-  <img src="https://img.shields.io/badge/Live%20Sessions-20-orange.svg" alt="20 Live Sessions">
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT License">
+  </a>
+  <a href="https://schooloffreelancing.com/freelancing-training/local-ai-training">
+    <img src="https://img.shields.io/badge/Training-100%25%20Live-brightgreen.svg" alt="100% Live">
+  </a>
+  <a href="https://schooloffreelancing.com/freelancing-training/local-ai-training">
+    <img src="https://img.shields.io/badge/Duration-4%20Weeks-blue.svg" alt="4 Weeks">
+  </a>
+  <a href="https://schooloffreelancing.com/freelancing-training/local-ai-training">
+    <img src="https://img.shields.io/badge/Live%20Sessions-20-orange.svg" alt="20 Live Sessions">
+  </a>
+  <a href="https://t.me/SchoolOfFreelancingTraining">
+    <img src="https://img.shields.io/badge/Mentor-Telegram-26A5E4.svg?logo=telegram&logoColor=white" alt="Mentor Telegram">
+  </a>
 </p>
 
 A live, mentor-led four-week training program by [School Of Freelancing](https://schooloffreelancing.com/) focused on deploying self-hosted AI infrastructure on Linux and developing practical skills for offering AI infrastructure services to clients worldwide.
