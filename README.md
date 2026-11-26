@@ -22,6 +22,9 @@
 
 A live, mentor-led four-week training program by [School Of Freelancing](https://schooloffreelancing.com/) focused on deploying self-hosted AI infrastructure on Linux and developing practical skills for offering AI infrastructure services to clients worldwide.
 
+## Repository Structure
+
+```text
 LocalAI-Training/
 ├── assets/       # Training banners & visual docs
 ├── configs/      # Docker, model YAML & SSL proxy configs
@@ -29,6 +32,7 @@ LocalAI-Training/
 ├── templates/    # Gigs, proposals & outreach copy
 ├── LICENSE       # MIT License
 └── README.md     # Program guide & 20-session syllabus
+```
 
 ## Program Snapshot
 
