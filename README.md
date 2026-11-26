@@ -1,9 +1,11 @@
-# LocalAI Freelancing Training
+# LocalAI Training
+
+## Learn LocalAI. Build AI Infrastructure. Freelance Globally.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Training: 100% Live](https://img.shields.io/badge/Training-100%25%20Live-brightgreen.svg)](https://schooloffreelancing.com/freelancing-training/local-ai-training)
-[![Duration: 2 Weeks](https://img.shields.io/badge/Duration-2%20Weeks-blue.svg)](https://schooloffreelancing.com/freelancing-training/local-ai-training)
-[![Live Sessions: 10](https://img.shields.io/badge/Live%20Sessions-10-orange.svg)](https://schooloffreelancing.com/freelancing-training/local-ai-training)
+[![Duration: 4 Weeks](https://img.shields.io/badge/Duration-4%20Weeks-blue.svg)](https://schooloffreelancing.com/freelancing-training/local-ai-training)
+[![Live Sessions: 20](https://img.shields.io/badge/Live%20Sessions-20-orange.svg)](https://schooloffreelancing.com/freelancing-training/local-ai-training)
 [![Mentor: Telegram](https://img.shields.io/badge/Mentor-Telegram-26A5E4.svg?logo=telegram&logoColor=white)](https://t.me/SchoolOfFreelancingTraining)
 
 A live, mentor-led four-week training program by [School Of Freelancing](https://schooloffreelancing.com/) focused on deploying self-hosted AI infrastructure on Linux and developing practical skills for offering AI infrastructure services to clients worldwide.
