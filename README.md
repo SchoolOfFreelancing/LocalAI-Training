@@ -1,65 +1,33 @@
-# LocalAI Hands-on Training Module
+# LocalAI Freelancing Training
 
-A hands-on Training covering LocalAI fundamentals, production deployment, and building a profitable service around it.
+A live, mentor-led 4-week course by [School Of Freelancing](https://schooloffreelancing.com/) focused on deploying self-hosted AI servers on Linux and offering freelance infrastructure services worldwide.
 
-## Prerequisites
-- Linux fundamentals (CLI, SSH, package management)
-- Basic networking (DNS, ports, firewalls)
-- Docker basics
-- A VPS or cloud account (DigitalOcean/AWS/Linode), GPU optional
-- Upwork freelancer account (for Day 5)
+## Program Snapshot
+- **Fee:** $111 USD (one-time payment)
+- **Schedule:** 4 weeks · 20 live interactive sessions (5 per week)
+- **Delivery:** 100% live sessions led by Karim (Masum) — no pre-recorded videos
+- **Skill Level:** Beginner to Intermediate
+- **Course Page:** https://schooloffreelancing.com/freelancing-training/local-ai-training
 
-## Schedule
+## Requirements Before Starting
+- An Ubuntu Linux VPS (a dedicated GPU is not required)
+- A registered domain or subdomain
+- Active accounts on freelance platforms such as Upwork, Freelancer, or Guru
 
-### Day 1 — LocalAI Fundamentals
-- What is LocalAI, architecture overview, supported model backends
-- Installation via Docker/binary on Linux
-- Configuration files (models.yaml, .env) and directory structure
-- Loading models (LLM, embeddings, image, audio)
-- **Lab:** Install LocalAI and run your first inference request
+## 4-Week Curriculum Overview
+1. **Week 1 — Foundation (Sessions 1–5):** Set up LocalAI via Docker or binary on Linux, manage configs, and run your first OpenAI-compatible API call.
+2. **Week 2 — Model Deployment (Sessions 6–10):** Run quantized GGUF text models via `llama.cpp`, tune prompts, and serve image generation endpoints.
+3. **Week 3 — Multimodal & Security (Sessions 11–15):** Add vision, video, speech-to-text, and text-to-speech tools behind authentication, a reverse proxy, and SSL.
+4. **Week 4 — Client Launch (Sessions 16–20):** Complete a full end-to-end server build for your portfolio, optimize marketplace profiles, and submit one proposal plus one outreach message for live mentor feedback.
 
-### Day 2 — Domain & Networking Setup
-- Buying/configuring a domain (registrar, DNS records)
-- Pointing A/CNAME records to your server
-- Setting up subdomains for LocalAI API endpoints
-- Reverse proxy basics (Nginx/Caddy) + API key protection
-- **Lab:** Map a custom domain to your LocalAI instance
+## Key Outcomes
+- Hands-on ability to install, secure, and troubleshoot private AI servers on Linux
+- A live production deployment ready to showcase to prospective clients
+- Reviewed freelance proposals and profile positioning for global marketplaces
 
-### Day 3 — Production Deployment
-- Hardening the VPS (firewall, SSH keys, fail2ban)
-- SSL/TLS via Let's Encrypt/Certbot
-- Container orchestration (Docker Compose/systemd)
-- GPU passthrough and resource limits
-- Logging, monitoring, and backups
-- **Lab:** Deploy LocalAI to production with HTTPS
+## Enrollment & Links
+- **Full Syllabus & Registration:** https://schooloffreelancing.com/freelancing-training/local-ai-training
+- **Mentor Chat (Telegram):** https://t.me
+- **Training Policies:** [Training Rules](https://schooloffreelancing.com) · [Refund Policy](https://schooloffreelancing.com)
 
-### Day 4 — Scaling & Troubleshooting
-- Model performance tuning (quantization, context size, threads)
-- Common errors and debugging workflow
-- Update/rollback strategy for models and the LocalAI binary
-- Security best practices (rate limiting, auth, API key rotation)
-- **Lab:** Simulate and resolve 3 common production issues
-
-### Day 5 — Upwork Marketplace Service Development
-- Identifying LocalAI service niches (self-hosted AI setup, migration, support)
-- Writing a compelling Upwork gig title & description
-- Pricing models (fixed-price vs hourly, packages)
-- Portfolio/proof-of-work prep using Day 1–4 labs
-- Client communication and proposal templates
-- **Lab:** Publish a live Upwork gig for LocalAI services
-
-## Outcomes
-By the end of this Training, participants will:
-- Deploy LocalAI to a production server with a custom domain and SSL
-- Troubleshoot and maintain a live LocalAI instance
-- Have a published, client-ready Upwork service listing
-
-## Resources
-- `/configs` — sample config files used in labs
-- `/scripts` — setup and deployment scripts
-- `/templates` — Upwork gig and proposal templates
-
-# Disclaimer
-This repository is intended to provide guidance, documentation, and support resources related to LocalAI installation. Product names, trademarks, and service names belong to their respective owners.
-
-⭐ If this repository helps you, please consider starring it and sharing it with others.
+> **Note:** This program equips you with technical and pitching skills for freelance AI work; client acquisition and income are not guaranteed.
